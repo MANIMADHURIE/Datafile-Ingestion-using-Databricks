@@ -1,4 +1,4 @@
-# Datafile-Ingestion-using-Databricks
+# Leveraging Azure Data Factory and Databricks for Efficient File Transformation and Movement
 
 ## AGENDA:
 The major goal of this project is to simplify the process of transforming numerous files and sending them to the locations that were specified for them. To accomplish this goal, Azure Data Factory is used to manage the processing of files as they are moved from the input container in Azure Data Lake to the output container in the same location. To guarantee that everything is in its place, the folder structure is always updated so that it corresponds with the IDs of the file formats.
